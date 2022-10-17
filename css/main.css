@@ -1524,9 +1524,9 @@
 	 width: 9rem;
 	 /* border-radius: 50%; */
 	 border-bottom-right-radius: 5px;
-	 border-top-right-radius: 80px;
-	 border-top-left-radius: 80px;
-	 border-bottom-left-radius: 80px;
+	 border-top-right-radius: 90px;
+	 border-top-left-radius: 90px;
+	 border-bottom-left-radius: 90px;
 	 margin: .9rem 1.3rem 0.5rem 1.3rem;
 	 float: left;
  }
